@@ -55,8 +55,8 @@
 
 
 <h2> Stuff I worked on  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@prabingautam&compact=True"/>
+<a href="https://github.com/prabeengautam">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@prabingautam&compact=True&theme=dracula"/>
 </a>
 <br>
 
@@ -64,10 +64,10 @@
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=PrabeenGautam&count_private=true&show_icons=true&theme=default" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=PrabeenGautam&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabeenGautam&theme=default" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabeenGautam&theme=dracula" />
 </a>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
