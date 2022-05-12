@@ -36,7 +36,7 @@
 <a href= https://github.com/PrabeenGautam?tab=repositories&q=&type=&language=csharp&sort= > <img height="30" width="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 <a href= https://github.com/PrabeenGautam?tab=repositories&q=&type=&language=figma&sort= > <img height="30" width="40"  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
 <a href= https://github.com/PrabeenGautam?tab=repositories&q=&type=&language=html&sort= > <img height="30" width="40"  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/PrabeenGautam?tab=repositories&q=&type=&language=mysql&sort= > <img height="30" width="40"  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+<!-- <a href= https://github.com/PrabeenGautam?tab=repositories&q=&type=&language=mysql&sort= > <img height="30" width="40"  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a> -->
 <!-- <a href= https://github.com/PrabeenGautam?tab=repositories&q=&type=&language=unity&sort= > <img height="35"  src =''> </a>  -->
 <a href= https://github.com/PrabeenGautam?tab=repositories&q=&type=&language=unreal&sort= > <img height="35"   src ='https://cdn2.unrealengine.com/ue-horizontal-logo-cba14ebde1ea.svg?resize=1&w=440&quality=high'> </a>
 
