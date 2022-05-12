@@ -53,11 +53,6 @@
 <a href="https://www.youtube.com/c/andrawaregeeks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="andrawaregeeks" height="30" width="40" /></a>
 </p>
 
-
-<h2> Stuff I worked on  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<a href="https://github.com/prabeengautam">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@prabingautam&compact=True&theme=dracula"/>
-</a>
 <br>
 
 
