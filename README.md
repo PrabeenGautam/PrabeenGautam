@@ -5,11 +5,13 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=PrabeenGautam.PrabeenGautam)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=PrabeenGautam.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
 
 </p>
 <div size='20px'> Hi! My name is Prabin Gautam. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
+  
+
 
 <h2> About Me </h2>
 
