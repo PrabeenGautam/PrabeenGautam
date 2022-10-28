@@ -18,7 +18,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Class Management System
+- 🔭 I’m currently working on GeetSunam (Nepali Music Streaming Platform with a focus on genre classification and music recommendation.
 
 - 🌱 I’m currently learning React and Redux 
 
