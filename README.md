@@ -28,5 +28,5 @@
 <h2> My GitHub Contribution </h2>
   
  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=PrabeenGautam&hide_border=false&theme=react-dark)]
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=PrabeenGautam&hide_border=false&theme=react-dark)
 
