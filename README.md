@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PrabeenGautam/PrabeenGautam/main/banner.png" style='object-fit: cover'  />
-</div>
-
 ###
 <h2 align="left">Hello Fellow < Developers/ ></h2>
   
